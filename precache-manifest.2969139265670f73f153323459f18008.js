@@ -88,19 +88,19 @@ self.__precacheManifest = [
     "url": "/img/404-cloud.0f4bc32b.png"
   },
   {
-    "revision": "535877f50039c0cb49a6196a5b7517cd",
-    "url": "/fonts/element-icons.535877f5.woff"
-  },
-  {
     "revision": "732389ded34cb9c52dd88271f1345af9",
     "url": "/fonts/element-icons.732389de.ttf"
+  },
+  {
+    "revision": "535877f50039c0cb49a6196a5b7517cd",
+    "url": "/fonts/element-icons.535877f5.woff"
   },
   {
     "revision": "a57b6f31fa77c50f14d756711dea4158",
     "url": "/img/404.a57b6f31.png"
   },
   {
-    "revision": "a41b8d6783bd5ece9c7c854b29d25e82",
+    "revision": "1552693b29b640f086622595cd4937c0",
     "url": "/index.html"
   },
   {
